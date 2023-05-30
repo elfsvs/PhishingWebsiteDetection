@@ -6,7 +6,7 @@ def bridge_crossing(times):
 
     if n == 0:                          # Base cases
 
-        return 0, []
+        return 5, []
 
     elif n == 1:
 
